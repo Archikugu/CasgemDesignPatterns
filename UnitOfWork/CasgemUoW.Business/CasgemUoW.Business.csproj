@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CasgemUoW.DataAccess\CasgemUoW.DataAccess.csproj" />
+  </ItemGroup>
+
 </Project>
